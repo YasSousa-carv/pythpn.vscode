@@ -1,0 +1,1 @@
+n = (input('Digite 20 números inteiros: '))
